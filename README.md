@@ -122,6 +122,68 @@ https://koha-community.org/manual/20.05/de/html/
 
 https://wiki.bsz-bw.de/pages/viewpage.action?pageId=17565617
 
+## ❓FAQ 
+<div style="width:100%;height:0;padding-bottom:101%;position:relative;"><iframe src="https://giphy.com/embed/hGRlr5VjYsTVZOcWm3" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/wind-answer-question-mark-hGRlr5VjYsTVZOcWm3">via GIPHY</a></p>
+
+
+
+<details>
+<summary>Was ist Koha?</summary>
+Koha ist ein Open-Source-Bibliotheksverwaltungssystem. Es wird von Bibliotheken genutzt, um ihre Kataloge zu verwalten, Bücher auszuleihen und Rückgaben zu verfolgen.
+</details>
+
+<details>
+<summary>Wie melde ich mich bei Koha an?</summary>
+Um dich bei Koha anzumelden, gehe auf die Anmeldeseite und gib deinen Benutzernamen und dein Passwort ein. Klicke anschließend auf "Anmelden".
+</details>
+
+<details>
+<summary>Wie finde ich ein Buch in Koha?</summary>
+Um ein Buch zu finden, nutze die Suchleiste oben auf der Startseite. Gib den Titel, den Autor oder ein Stichwort ein und klicke auf "Suchen".
+</details>
+
+<details>
+<summary>Wie leihe ich ein Buch aus?</summary>
+Um ein Buch auszuleihen, suche das Buch im Katalog und klicke auf den Titel. Auf der Buchseite findest du die Option "Ausleihen". Klicke darauf und folge den Anweisungen.
+</details>
+
+<details>
+<summary>Wie gebe ich ein Buch zurück?</summary>
+Um ein Buch zurückzugeben, bringe es zur Rückgabestation deiner Bibliothek. Das Bibliothekspersonal wird das Buch dann im System zurückbuchen.
+</details>
+
+<details>
+<summary>Was mache ich, wenn ich mein Passwort vergessen habe?</summary>
+Wenn du dein Passwort vergessen hast, klicke auf der Anmeldeseite auf "Passwort vergessen". Gib deine E-Mail-Adresse ein, und du erhältst Anweisungen, wie du dein Passwort zurücksetzen kannst.
+</details>
+
+<details>
+<summary>Wie verlängere ich die Ausleihfrist eines Buches?</summary>
+Um die Ausleihfrist eines Buches zu verlängern, gehe in deinem Konto auf "Ausgeliehene Bücher". Wähle das Buch aus, das du verlängern möchtest, und klicke auf "Verlängern".
+</details>
+
+<details>
+<summary>Wie aktualisiere ich meine Kontaktdaten?</summary>
+Um deine Kontaktdaten zu aktualisieren, gehe in deinem Konto auf "Persönliche Daten". Dort kannst du deine E-Mail-Adresse, Telefonnummer und andere Informationen ändern.
+</details>
+
+<details>
+<summary>Wie kann ich sehen, welche Bücher ich ausgeliehen habe?</summary>
+Um zu sehen, welche Bücher du ausgeliehen hast, melde dich in deinem Konto an und gehe auf "Ausgeliehene Bücher". Dort findest du eine Liste aller Bücher, die du derzeit ausgeliehen hast.
+</details>
+
+<details>
+<summary>Was mache ich, wenn ein Buch verloren geht?</summary>
+Wenn du ein Buch verloren hast, kontaktiere sofort das Bibliothekspersonal. Sie werden dir weiterhelfen und dich über die nächsten Schritte informieren.
+</details>
+
+<details>
+<summary>Wie kontaktiere ich den Support?</summary>
+Um den Support zu kontaktieren, gehe auf die "Hilfe"-Seite in Koha. Dort findest du Kontaktinformationen und kannst eine Support-Anfrage stellen.
+</details>
+
+
+
 # ❣️ Best Practice Beispiel(e)
 
 https://bib.paedagogika.com
